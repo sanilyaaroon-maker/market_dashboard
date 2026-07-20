@@ -1,3 +1,7 @@
+# Secrets
+.env
+market-breadth/.env
+
 # Python
 __pycache__/
 *.py[cod]
